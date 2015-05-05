@@ -1,4 +1,4 @@
-package org.dzanab.openweather;
+package org.dzanab.openweather.skunkwork;
 
 import org.dzanab.openweather.model.WeatherFull;
 import com.google.gson.Gson;

@@ -1,4 +1,4 @@
-package org.dzanab.openweather;
+package org.dzanab.openweather.skunkwork;
 
 import java.io.*;
 import java.net.URI;

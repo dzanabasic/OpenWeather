@@ -10,16 +10,14 @@ public class Clouds {
 
 	public Clouds(int all) {
 		this.all = all;
-
-	}
-
-	@Override
-	public String toString() {
-		return "Clouds{" + "all=" + all + '}';
 	}
 
 	public void setAll(int all) {
 		this.all = all;
+	}
+
+	public int getAll() {
+		return all;
 	}
 
 	@Override
@@ -44,8 +42,8 @@ public class Clouds {
 		return true;
 	}
 
-	public int getAll() {
-		return all;
+	@Override
+	public String toString() {
+		return "Clouds{" + "all=" + all + '}';
 	}
-
 }
