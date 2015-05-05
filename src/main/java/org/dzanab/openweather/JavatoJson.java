@@ -1,5 +1,6 @@
 package org.dzanab.openweather;
 
+import org.dzanab.openweather.model.Coord;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

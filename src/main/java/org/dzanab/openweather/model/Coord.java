@@ -1,4 +1,4 @@
-package org.dzanab.openweather;
+package org.dzanab.openweather.model;
 
 public class Coord {
 
@@ -53,5 +53,6 @@ public class Coord {
 	@Override
 	public String toString() {
 		return "Coord{" + "lon=" + lon + ", lat=" + lat + '}';
-	}
-}
+	}}
+
+	
